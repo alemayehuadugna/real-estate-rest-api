@@ -1,0 +1,120 @@
+
+
+
+// Another Page |- https://www.matellio.com/blog/how-to-build-a-real-estate-app/
+
+    MUST HAVE FEATURES IN REAL ESTATE APP
+
+        ADMIN PANEL
+
+            1. Dashboard: It has an easy-to-use centralized dashboard to manage the complete website, and it can merely configure different services on-the-go.
+
+            2. Properties: A comprehensive system to manage all the information regarding the features like type, area, address, category, pricing, and status.
+
+            3. User management:- It refers to both brokers and tenants (or customers.) The admin blacklists, adds, edits, and updates users relying on their activities in the app.
+
+            4. Leads and Sales: used to keep track when customer starts conversation for first time with broker(lead) and also when broker sales or rent the house(sales)
+
+            5. Revenue: Track and manage taxes made from property deals, commissions, subscription packages, and other revenue sources on a timely basis.
+
+            --6. Subscriptions: Admin Manages offered package subscriptions for users and agents. And admin can also add or remove them from the property list.(admin) ***
+
+            --7. Analytics Report: Get useful insights into business performance with analytics and information about sales, leads, and customer engagement rates. ****
+
+            --8. Marketing: In this section, the admin manages advertisements and promotions over the website to enhance sales as well as inform users about trending offers, deals & discounts. ****
+
+            9. Customer support management:- Admins are oftentimes responsible for delivering quality support for the users to feel comfortable and secure while in an app.
+
+            10. Property management:- It can be submitted or removed using the admin panel.
+
+
+        Agent Panel
+
+            --1. Listings: Manage property listings and modify them, post new properties for sale, and remove features when the deal is settled.
+
+            2. Inquiries: At convenience, receive and accept queries from a buyer about properties from the listing.
+
+            3. Lead Notification: Get real-time notification about leads when a buyer shows interest in a property posted in their listings and manage leads through CRM.
+
+            4. Responses: The agent manages responses to queries and issues made about properties between prospective buyers or sellers.
+
+            --5. Brokerage Fee: Calculate brokerage fees for a property deal depending on factors like property type, location, area, and current real estate rates.
+
+            6. Communication: Stay connected with sellers and buyers through email, phone, text, or chat and keep them updated about the progress of the deal.
+
+            7. Earnings: Keep track of their profits made from finalized deals and commission from other agents on a timely basis.
+
+            8. Subscribe Ad Packages: Subscribe and manage ad packages for property promotion for sale to improve the visibility of property in buyer search.
+
+            9. Profile: edit profile, account, settings
+
+            10. Login: Login, Logout, password recovery
+
+            11. Registration: account Creation
+
+            12. feedback and rating:- The ability to leave feedback and rate this or that realtor will also appeal to users. The result is increased loyalty.
+
+            13. Properties: add, remove or update peoperty there property
+
+
+
+
+
+        User Panel
+
+            1. Search: This section performs a detailed search by applying different parameters and filters to find the best results that meet their requirements.
+
+            2. Property Information: Herein, users get detailed and accurate property information like a description of the property, built-up area, carpet area, status, pricing etc.
+
+            --3. Rent: Put the property on rent or for sale by posting detailed property information on different verified listings.
+
+            4. Agent Information: Users get information and personal details about the agent like their email and contact number to communicate. Additionally, the users enquire about the desired property they are selling.
+
+            5. Maps: Inbuilt plans allow users to search for accurate location of the property and get the best routes to access them from their current position.
+
+            6. Comparison: Users can compare multiple properties on different parameters such as pricing, rent, size, location, layout, condition, and brokerage fee, etc.
+
+            7. Support: Instant support over the phone or chat can resolve any queries and issues.
+
+            8. Profile: edit profile, account & settings
+
+            9. Login: Login, Logout & password recovery
+
+            10. Registration: account creation
+
+            --12. Push Notification: Implement such notifications to provide users with the opportunity to receive daily information updates about property objects they like.
+
+            13. Chat: Real estate agencies must keep a high level of communication with potential customers.
+
+            14. feedback and rating:- The ability to leave feedback and rate this or that realtor will also appeal to users. The result is increased loyalty.
+
+            15. virtual tour:- With the help of such tours, customers get a chance to have a look at interesting objects even before the official real-world viewing.
+
+            16. Agent rating
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
